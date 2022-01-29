@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: test
 date: 2022-1-30
 category: journals
